@@ -13,17 +13,7 @@ Fantasy Map Generator_ is a free web application that helps fantasy writers, gam
 
 Join our [Discord server](https://discordapp.com/invite/X7E84HU) and [Reddit community](https://www.reddit.com/r/FantasyMapGenerator) to share your creations, discuss the Generator, suggest ideas and get the most recent updates.
 
-Contact me via [email](mailto:azgaar.fmg@yandex.com) if you have non-public suggestions. For bug reports please use [GitHub issues](https://github.com/Azgaar/Fantasy-Map-Generator/issues) or _#fmg-bugs_ channel on Discord. If you are facing performance issues, please read [the tips](https://github.com/Azgaar/Fantasy-Map-Generator/wiki/Tips#performance-tips).
 
-You can support the project on [Patreon](https://www.patreon.com/azgaar).
-
-_Inspiration:_
-
-- Martin O'Leary's [_Generating fantasy maps_](https://mewo2.com/notes/terrain)
-
-- Amit Patel's [_Polygonal Map Generation for Games_](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation)
-
-- Scott Turner's [_Here Dragons Abound_](https://heredragonsabound.blogspot.com)
 
 ## Contribution
 
